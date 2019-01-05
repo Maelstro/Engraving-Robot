@@ -1,0 +1,6 @@
+[COSIMIR-Sensor-Scan]
+SensorType = SEN_OPT_SCANNER
+Dmin = 0
+Dmax = 1000
+BeamWidth = 180
+ApproxParm = 20
